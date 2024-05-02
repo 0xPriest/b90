@@ -1,0 +1,14 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Description of your project",
+    "main": "server.js", 
+    "scripts": {
+      "start": "node server.js" 
+    },
+    "dependencies": {
+      "express": "^4.17.1", 
+      "mongodb": "^4.1.0", 
+      "cors": "^2.8.5" 
+    }
+  }
